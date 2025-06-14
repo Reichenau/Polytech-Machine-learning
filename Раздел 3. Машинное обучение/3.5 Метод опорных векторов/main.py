@@ -1,3 +1,6 @@
+# Практическое задание
+# убрать из данных iris часть точек (на которых мы обучаемся ) и убедиться что на предсказание влияют только опорные вектора.
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
